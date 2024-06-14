@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jimmy!</h1>
 
-I am Jimmy Saavedra Gutiérrez, I am currently pursuing my Technology in data systematization from [Francisco José de Caldas District University] (https://www.udistrital.edu.co/inicio). I am a tech enthusiast & a self learner.
+I am Jimmy Saavedra Gutiérrez, I am currently pursuing my Technology in data systematization from [Francisco José de Caldas District University](https://www.udistrital.edu.co/inicio). I am a tech enthusiast & a self learner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JimInGame302" alt="JimInGame302" /> </p>
 
