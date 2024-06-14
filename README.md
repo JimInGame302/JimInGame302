@@ -16,7 +16,7 @@ I am Jimmy Saavedra Gutiérrez, I am currently pursuing my Technology in data sy
 - 💞️ I’m looking to collaborate on everybody who make me grow up as a better professional.
 - 🥅 2024 Goals: To be proficient as a junior backend developer.
 - 📫 How to reach me: jim312002@hotmail.com.
-- 😄 Pronouns: he/his.
+- 😄 Pronouns: he/him.
 
 </br>
 
